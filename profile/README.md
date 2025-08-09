@@ -12,6 +12,7 @@ We're a team of seasoned smart contract security researchers specializing in Rus
 ### **Private Security Audits:**
 | # | Language | Protocol | Type | Findings | Date |
 |---|----------|--|------|----------|---------|
+| 01 | Rust | Stealth | Token Launchpad - Solana | 1 High | Jul 2025 |
 | 01 | Rust | Stealth | Virtual Machine | TBA | Jun 2025 |
 | 02 | Go | Stealth | DeFi | 1 High 1 Low | May 2025 |
 | 03 | Rust | Stealth | Cross Chain Bridge | 1 Low 3 Informational | Apr 2025 |
