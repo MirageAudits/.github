@@ -9,20 +9,22 @@ We're smart contract security researchers and former blockchain developers, unit
 
 ## Our Engagements
 
-| # | Language | Protocol | Type | Findings | Date |
-|---|----------|----------|------|----------|---------|
-| 01 | C++/Rust | Stealth | Virtual Machine | 1 High 2 Low 4 Informational | Jul/Aug 2025 |
-| 02 | Rust | Stealth | Token Launchpad - Solana | 1 High | Jul 2025 |
-| 03 | Move | Bluefin Perps | Decentralized Exchange - SUI Perpetuals | 1 High | Jul 2025 |
-| 04 | Rust | Stealth | ZK Virtual Machine | 2 Low | Jun 2025 |
-| 05 | Rust | Aquarius | Decentralized liquidity management - Stellar | 1 Medium 2 Informational | Jun 2025 |
-| 06 | Go | Stealth | DeFi - Cosmos | 1 High 1 Low | May 2025 |
-| 07 | Rust | Stealth | Cross Chain Bridge - DOT:ETH | 1 Low 3 Informational | Apr 2025 |
-| 08 | Rust | Stealth | DeFi - DOT | 1 High 2 Medium | Mar 2025 |
-| 09 | Rust | Stealth | Decentralized Identity - DOT | 1 Medium 2 Informational | Mar 2025 |
-| 10 | Solidity | CrestalNetwork - EVM | Web3-native AI agent platform | 2 Medium | Mar 2025 |
-| 11 | Go | Stealth | Virtual Machine - Cosmos | 2 Low | Jan 2025 |
-| 12 | Haskell | MayZ - Cardano | DeFi | 1 Low | Nov 2024 |
+| #  | Language | Protocol                      | Type                          | Findings                            | Date     |
+| -- | -------- | ----------------------------- | ----------------------------- | ----------------------------------- | -------- |
+| 01 | Solidity | Umbrae Protocol               | DeFi - DLMM                   | 2 High 5 Medium 5 Low               | Jan 2026 |
+| 02 | Solidity | Vana Protocol                 | DeFi                          | 4 Low                               | Dec 2025 |
+| 03 | Rust     | Tilted Social Gaming (Solana) | DeFi, Gaming                  | 8 Critical, 4 High, 3 Medium, 4 Low | Dec 2025 |
+| 04 | Rust     | Beamable Network (Solana)     | DePIN                         | 2 High, 2 Medium, 4 Low             | Nov 2025 |
+| 05 | Rust     | ZkSync Era                    | Zero Knowledge EVM L2         | 1 Medium, 2 Low                     | Nov 2025 |
+| 06 | C++/Rust | Stealth                       | Blockchain Virtual Machine    | 1 High, 2 Low, 4 Informational      | Aug 2025 |
+| 07 | Rust     | Pyro.fun (Solana)             | DeFi                          | 1 High                              | Jul 2025 |
+| 08 | Rust     | ZkSync Era                    | Zero Knowledge EVM L2         | 1 High, 2 Low, 4 Informational      | Jun 2025 |
+| 09 | Go       | Stealth (Cosmos)              | DeFi                          | 1 High, 1 Low                       | May 2025 |
+| 10 | Rust     | Stealth (Polkadot - EVM)      | Cross Chain Bridge            | 1 Low, 3 Informational              | Apr 2025 |
+| 11 | Rust     | Stealth (Polkadot)            | DeFi                          | 1 High, 2 Medium                    | Mar 2025 |
+| 12 | Rust     | Stealth (Polkadot)            | Decentralized Identity (DeID) | 1 Medium, 2 Informational           | Mar 2025 |
+| 13 | Go       | Stealth (Cosmos)              | Virtual Machine               | 2 Low                               | Jan 2025 |
+| 14 | Haskell  | MayZ (Cardano)                | DeFi                          | 2 High, 1 Medium                    | Nov 2024 |
 
 ---
 
