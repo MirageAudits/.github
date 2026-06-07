@@ -20,7 +20,7 @@ Mirage Audits specializes in Solana and multi-chain security. Protocols like ZkS
 - **Portfolio:** [mirageaudits.com/portfolio](https://mirageaudits.com/portfolio)
 - **Email:** [security@mirageaudits.com](mailto:security@mirageaudits.com)
 - **Telegram:** [@Pushkarm029](https://t.me/Pushkarm029)
-- **X:** [@MirageAudits](https://x.com/MirageAudits)
+- **X:** [@pushkarm029](https://x.com/pushkarm029)
 
 ---
 
